@@ -12,7 +12,7 @@ body {
     align-items: center;
     flex-direction: column;
     min-height: 100vh;
-    background: rgb(204, 213, 214);
+    background: rgb(44, 44, 46);
 }
 
 #star {

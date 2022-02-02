@@ -6,13 +6,18 @@
     box-sizing: border-box;
 }
 
-body {
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     min-height: 100vh;
-    background: rgb(44, 44, 46);
+    /* height: 100vh; */
+    background: inherit;
+}
+
+body {
+    background: rgb(136, 136, 139);
 }
 
 #star {
@@ -42,6 +47,10 @@ svg {
     svg {
         width: 655px;
         height: 655px;
+    }
+
+    .container {
+        overflow: hidden;
     }
 
     .inputs {

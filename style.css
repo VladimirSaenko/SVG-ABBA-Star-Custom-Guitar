@@ -4,6 +4,7 @@
     padding: 0;
     user-select: none;
     box-sizing: border-box;
+    font-family: 'Permanent Marker', cursive;
 }
 
 .container {
@@ -14,6 +15,7 @@
     min-height: 100vh;
     /* height: 100vh; */
     background: inherit;
+    overflow: hidden;
 }
 
 body {
@@ -25,22 +27,36 @@ body {
 }
 
 svg {
-    height: 635px;
-    width: 635px;
+    height: 605px;
+    width: 605px;
 }
 
 .inputs {
-    margin-top: 25px;
+    margin-top: 5px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: row;
     width: 250px;
-    height: 50px;
+    height: 100px;
 }
 
-.inputs input {
-    margin: 0px 15px;
+.inputs div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputs div  p {
+    color: white;
+    font-weight: normal;
+    text-shadow: black 1px 5px 5px;
+    font-size: 45px;
+}
+
+.inputs div input {
+    margin: 0px 75px;
 }
 
 @media screen and (min-width: 300px) and (max-width: 800px) {
@@ -49,11 +65,11 @@ svg {
         height: 655px;
     }
 
-    .container {
-        overflow: hidden;
-    }
-
     .inputs {
         margin-top: 35px;
+    }
+
+    .inputs div p {
+        font-size: 37px;
     }
 }

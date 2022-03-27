@@ -10,4 +10,4 @@
 
 ##  "About Guitar"-
 
-## Оригинальная гитара Бьорна Ульвеуса. Впервые была использована в 1974 году, когда ABBA выиграли конкурс песни «Евровидение» в Брайтоне, Великобритания, со своим хитом «Waterloo». Была выпущена лимитированная серия из 50 гитар.| Original guitar by Bjorn Ulvaeus. It was first used in 1974 when ABBA won the Eurovision Song Contest in Brighton, UK with their hit "Waterloo". A limited edition of 50 guitars was released.
+## Оригинальная гитара Бьорна Ульвеуса. Впервые была использована в 1974 году, когда ABBA выиграли конкурс песни «Евровидение» в Брайтоне, Великобритания. Была выпущена лимитированная серия из 50 гитар. | Original guitar by Bjorn Ulvaeus. It was first used in 1974 when ABBA won the Eurovision Song Contest in Brighton, UK. A limited edition of 50 guitars was released.

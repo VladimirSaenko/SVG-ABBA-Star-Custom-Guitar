@@ -4,7 +4,13 @@
 
 ![150837590-12062ff6-cf9d-4790-9617-e1acb28d4f5a](https://user-images.githubusercontent.com/56477695/150984900-b472b470-6d55-4037-8e5a-4cf263d9247e.jpg)
 
-## Codepen: https://codepen.io/vladimirsaenko/pen/PoOoGEJ
+## Codepens {
+
+### https://codepen.io/vladimirsaenko/pen/PoOoGEJ
+
+### https://codepen.io/vladimirsaenko/pen/yLPBZOy
+
+### }
 
 ## Lefty Guitar: https://vladimirsaenko.github.io/SVG-ABBA-Star-Custom-LeftyGuitar/
 
